@@ -1,10 +1,7 @@
 package application;
 import data.*;
 import java.util.Scanner;
-/**
- *
- * @author Aysia
- */
+
 public class Application {
     public static void main(String[] args) {
         String Nama, Prosesor, Os, Storage;
